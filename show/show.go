@@ -5,5 +5,5 @@ import (
 )
 
 func Show() {
-	fmt.Println("show time.")
+	fmt.Println("show, hello-module.")
 }
